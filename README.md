@@ -73,14 +73,14 @@ We can also see the top sku based on sales and the top rising products that has 
 
 ### Page 3 - Merchant
 
-This page shows the detailed performance of each merchant.
+This page shows the detailed performance of each merchant and what are they selling.
 
 <center><img src="img/page_3_1.PNG"></center>  
 
 
 ### Page 4 - Customer
 
-This page shows the detailed performance of each customer.
+This page shows the detailed performance of each customer and what are they buying.
 
 <center><img src="img/page_4_1.PNG"></center>  
 
