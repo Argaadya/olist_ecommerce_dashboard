@@ -6,8 +6,8 @@ This is my personal project to learn how to build a dashboard in Power BI. The d
 
 - `order`: information about each purchase and their time
 - `order_item`: details about each order, what items are purchased
-- `seller_id`: geographic information about the seller/merchant
-- `customer_id`: geographic information about the customer
+- `seller`: geographic information about the seller/merchant
+- `customer`: geographic information about the customer
 - `product`: master information about each SKU, including the product category in latin, item weight, and item dimension
 - `product_category_name_translation`: translation of the product category from latin to english
 
